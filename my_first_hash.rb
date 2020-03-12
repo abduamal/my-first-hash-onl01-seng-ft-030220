@@ -1,5 +1,7 @@
 def my_hash
-  your_hash = { name => "Amal Abdu", age => 24, location => "D.C.", condition => "tired"}
+  your_hash = { 
+    name => "Amal Abdu", 
+    age => 24, location => "D.C.", condition => "tired"}
   return your_hash
 end
 
