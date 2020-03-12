@@ -27,7 +27,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  retrieval["oil paintings"]
+  return retrieval["oil paintings"]
 
 end
 
